@@ -1,12 +1,12 @@
 {
-    "name": "wyrihaximus/react-guzzle",
+    "name": "alex-sanchezzz/reactguzzle",
     "description": "Asyncronous Guzzle adapter powered by react/http-client",
     "license": "MIT",
     "authors": [
         {
-            "name": "Cees-Jan Kiewiet",
-            "email": "ceesjank@gmail.com",
-            "homepage": "http://wyrihaximus.net/"
+            "name": "Alexandr Kirilyuk",
+            "email": "sanchezzzov@gmail.com",
+            "homepage": "https://cvek.ru/"
         }
     ],
     "require": {
